@@ -3,8 +3,9 @@
 ### 🔭 I’m currently working on 
 * My Milestone 3 Project for the Code Institute.
 
-### Current Knowledge
-![HTML5](https://img.shields.io/badge/-HTML5-red)
+### Technologies I Know
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=ae2012)
+
 
 <!--
 **pbaker321/pbaker321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
