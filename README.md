@@ -1,10 +1,12 @@
 ### Hi there 👋
+I'm Pete!! Having recently graduated from the Code Institute. I now work in technical support for Bizimply in Dublin.
+Bizimply is an Irish based SAAAS Company. Focused on Work Management Software for Hospitality, Retail and Healthcare.
 
 ### 🔭 I’m currently working on 
-Personal projects.
+A personal project based on ruby on rails!
 
 ### :desktop_computer: I'm currently learning
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) & Ruby on rails
 
 ### :floppy_disk: Technologies I Know
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
